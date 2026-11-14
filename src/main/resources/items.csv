@@ -1,0 +1,9 @@
+type,id,title,creator
+BOOK,B001,Dune,Frank Herbert
+BOOK,B002,1984,George Orwell
+BOOK,B003,The Hobbit,J.R.R. Tolkien
+BOOK,B004,Les Miserables,Victor Hugo
+
+DVD,D001,Inception,Christopher Nolan
+DVD,D002,Interstellar,Christopher Nolan
+DVD,D003,Amelie,Jean-Pierre Jeunet
